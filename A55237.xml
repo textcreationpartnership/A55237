@@ -1,0 +1,631 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem in vindication of the late publick proceedings by way of dialogue between a high Tory and a trimmer to which is added The high Tory's catechism.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55237</idno>
+            <idno type="STC">Wing P2677</idno>
+            <idno type="STC">ESTC R37098</idno>
+            <idno type="EEBO-CITATION">16217875</idno>
+            <idno type="OCLC">ocm 16217875</idno>
+            <idno type="VID">105091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1599:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem in vindication of the late publick proceedings by way of dialogue between a high Tory and a trimmer to which is added The high Tory's catechism.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105091:1"/>
+            <pb facs="tcp:105091:1"/>
+            <p>A POEM, In vindication of the late PUBLICK PROCEEDINGS.</p>
+            <p>By way of DIALOGUE, Between a <hi>High</hi> TORY and a TRIMMER.</p>
+            <p>
+               <hi>To which is added,</hi> The High Tory's CATECHISM.</p>
+            <q>
+               <l>As when the Sea breaks o're its bounds,</l>
+               <l>And overflows the level Grounds;</l>
+               <l>Thoſe <hi>Banks</hi> and <hi>Dams</hi> that like a Screen</l>
+               <l>Did keep it <hi>out,</hi> now keep it <hi>in.</hi>
+               </l>
+               <l>So when <hi>Tyrannical Uſurpation</hi>
+               </l>
+               <l>Invades the <hi>freedom</hi> of a <hi>Nation,</hi>
+               </l>
+               <l>The <hi>Laws</hi> o'th' Land that were intended</l>
+               <l>To keep it out, <hi>are made Defend it.</hi>
+               </l>
+               <bibl>HUDIBRAS.</bibl>
+            </q>
+            <p>Printed in the Year, 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:105091:2"/>
+            <pb n="1" facs="tcp:105091:2"/>
+            <head>A POEM <hi>In Vindication of the</hi> Late Publick Proceedings: <hi>By way of Dialogue between a High</hi> TORY <hi>and a</hi> TRIMMER.</head>
+            <lg>
+               <l>WHen <hi>King</hi> and <hi>Queen</hi> the Seas had croſt,</l>
+               <l>Becauſe a good <hi>Deſign</hi> was loſt;</l>
+               <l>Scamp'ring away in haſty Pet,</l>
+               <l>'Cauſe people would not have them <hi>get</hi>
+               </l>
+               <l>Their <hi>Heirs</hi> by <hi>proxy,</hi> and <hi>Throne</hi> fill</l>
+               <l>With <hi>Iſſue,</hi> not of <hi>Loins</hi> but <hi>Will:</hi>
+               </l>
+               <l>Of diſcourſe then I heard a ſtory,</l>
+               <l>Between a <hi>Trimmer</hi> and <hi>high Tory.</hi>
+               </l>
+               <l>With viſage grave and politick,</l>
+               <l>Quoth <hi>Tory,</hi> pray how can you ſtick</l>
+               <l>To a rebellious wicked <hi>cauſe,</hi>
+               </l>
+               <l>Againſt ſo many <hi>Oaths</hi> and <hi>Laws;</hi>
+               </l>
+               <l>Which bind to <hi>abſolute</hi> ſubmiſſion,</l>
+               <l>Without <hi>reſerve</hi> without <hi>condition?</hi>
+               </l>
+               <l>Why don't you then the King recall,</l>
+               <l>And reinthrone him at <hi>Whitehall?</hi>
+               </l>
+               <l>For would his Subjects but ſubmit,</l>
+               <l>And forreign Forces <hi>England</hi> quit;</l>
+               <l>He'd grant enough to blaſt all hope</l>
+               <l>Of hated <hi>Romiſh Prieſts</hi> and <hi>Pope;</hi>
+               </l>
+               <l>And <hi>Right</hi> and <hi>Property</hi> reſtore,</l>
+               <l>Never to be endanger'd more.</l>
+            </lg>
+            <pb n="2" facs="tcp:105091:3"/>
+            <sp>
+               <speaker>Trim.</speaker>
+               <lg>
+                  <l>Suppoſe, quoth <hi>Trimmer,</hi> things might be</l>
+                  <l>As you affirm, great fools were we</l>
+                  <l>Should we <hi>believe</hi>'t, for on what <hi>ground</hi>
+                  </l>
+                  <l>Can we a juſt <hi>aſſurance</hi> found?</l>
+                  <l>
+                     <hi>Promiſe</hi> no doubt he'll give, but what</l>
+                  <l>
+                     <hi>Security</hi> to make good <hi>That?</hi>
+                  </l>
+                  <l>No <hi>Vow,</hi> no <hi>Oath,</hi> nor <hi>Declaration</hi>
+                  </l>
+                  <l>Will ſerve again to <hi>gull</hi> the <hi>Nation,</hi>
+                  </l>
+                  <l>Which now's alike enclin'd to truſt</l>
+                  <l>The <hi>Nants-Edicts</hi> of <hi>Great</hi> and <hi>Juſt.</hi>
+                  </l>
+                  <l>Would <hi>James</hi> have <hi>granted</hi> what you ſay</l>
+                  <l>He will, he ne're had gone away;</l>
+                  <l>And ſure <hi>abroad</hi> he is not gone</l>
+                  <l>With purpoſe to return <hi>alone.</hi>
+                  </l>
+                  <l>Shall we the <hi>word</hi> of <hi>Lewis</hi> take,</l>
+                  <l>That <hi>James</hi> no more his <hi>word</hi> ſhall <hi>break,</hi>
+                  </l>
+                  <l>And let <hi>French Faith</hi> attend him home</l>
+                  <l>Joyn'd with the <hi>Charity</hi> of <hi>Rome?</hi>
+                  </l>
+                  <l>Who have o'th' <hi>one</hi> experience had,</l>
+                  <l>May <hi>try</hi> the <hi>other,</hi> if they're mad.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tory.</speaker>
+               <lg>
+                  <l>Why truly ſhould the King return,</l>
+                  <l>To us who're his Liege-ſubjects born</l>
+                  <l>The Act of Sixty one in force is,</l>
+                  <l>Ev'n though he landed with <hi>French</hi> Forces:</l>
+                  <l>Or elſe pray tell me what's the ſenſe</l>
+                  <l>Of bearing arms on <hi>no pretence,</hi>
+                  </l>
+                  <l>And in <hi>no caſe,</hi> againſt the <hi>King,</hi>
+                  </l>
+                  <l>Or thoſe that his <hi>Commiſſion</hi> bring?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Trimmer.</speaker>
+               <lg>
+                  <l>In this Objection ſeems to lie</l>
+                  <l>Your greateſt ſtrength, but I reply;</l>
+                  <l>No <hi>Acts</hi> or <hi>Laws</hi> have obligation</l>
+                  <l>To the <hi>deſtruction</hi> of a <hi>Nation;</hi>
+                  </l>
+                  <l>Which to <hi>preſerve</hi> is their intent,</l>
+                  <l>(And this not <hi>mention'd</hi> is ſtill <hi>meant,</hi>)</l>
+                  <l>And when they anſwer not this <hi>end,</hi>
+                  </l>
+                  <l>But to the peoples <hi>dammage</hi> tend</l>
+                  <l>(Who thereby <hi>harm'd</hi> are or <hi>annoy'd,</hi>)</l>
+                  <l>Without Repeal grow <hi>null</hi> and <hi>void;</hi>
+                  </l>
+                  <pb n="3" facs="tcp:105091:3"/>
+                  <l>Which much more ſure they ought to <hi>do,</hi> in</l>
+                  <l>Caſe they <hi>advance</hi> the <hi>publick ruin.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>No Law is bound for <hi>Pope</hi> to <hi>cut</hi>
+                  </l>
+                  <l>
+                     <hi>(No more than Eſſex)</hi> its own throat;</l>
+                  <l>Whoſe very <hi>Eſſence</hi> is contrary</l>
+                  <l>To <hi>abſolute</hi> and <hi>arbitrary,</hi>
+                  </l>
+                  <l>And if't enacts <hi>ſuch Soveraignty</hi>
+                  </l>
+                  <l>Muſt guilty of <hi>Self-murther</hi> be.</l>
+                  <l>Nor can <hi>one Law</hi> hold to <hi>ſuſpend</hi>
+                  </l>
+                  <l>Or to <hi>all others</hi> put an <hi>end;</hi>
+                  </l>
+                  <l>(But that <hi>Law</hi> makes all <hi>others</hi> ceaſe,</l>
+                  <l>Which bids <hi>Kings</hi> do e'en <hi>what they pleaſe.</hi>)</l>
+                  <l>And he who does with Laws <hi>diſpenſe</hi>
+                  </l>
+                  <l>Made for our <hi>ſafety</hi> and <hi>defence,</hi>
+                  </l>
+                  <l>And only <hi>ſuch</hi> in force will have</l>
+                  <l>As ſerve the people to <hi>enſlave,</hi>
+                  </l>
+                  <l>Says in effect his <hi>ſubjects</hi> muſt</l>
+                  <l>Be rul'd by his ungovern'd <hi>luſt;</hi>
+                  </l>
+                  <l>And ſuch <hi>uſurping</hi> Tyrant ſhou'd</l>
+                  <l>Like firſt <hi>Invader</hi> be <hi>withſtood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>That only <hi>Pacts</hi> to <hi>one</hi> convey</l>
+                  <l>The Right of <hi>many</hi> I'll not ſay;</l>
+                  <l>But yet <hi>Protection</hi> ſure is <hi>to,</hi>
+                  </l>
+                  <l>Although not <hi>for, obedience</hi> due:</l>
+                  <l>And if a <hi>Prince</hi> withdraws <hi>protection</hi>
+                  </l>
+                  <l>While <hi>people</hi> pay all <hi>due ſubjection,</hi>
+                  </l>
+                  <l>Why <hi>Loyal</hi> men ſhould <hi>paſſive</hi> be</l>
+                  <l>Till they are <hi>ruin'd,</hi> I can't ſee.</l>
+               </lg>
+               <lg>
+                  <l>He that to <hi>Law</hi> will not ſubmit</l>
+                  <l>His <hi>Power,</hi> deſtroys the <hi>ſource</hi> of it;</l>
+                  <l>And <hi>legal</hi> Title gone, <hi>new</hi> Right</l>
+                  <l>Muſt be acquir'd by <hi>force</hi> and <hi>might:</hi>
+                  </l>
+                  <l>He thence of no <hi>claim</hi> is poſſeſt,</l>
+                  <l>Till he atchieves That of <hi>conqueſt;</hi>
+                  </l>
+                  <l>And <hi>That</hi> will any <hi>others</hi> be</l>
+                  <l>VVho ſhews a longer <hi>ſword</hi> than <hi>he.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tory.</speaker>
+               <lg>
+                  <l>This is wild arguing, but pray</l>
+                  <l>VVhat Scripture <hi>Rule</hi> to <hi>diſobey</hi>
+                  </l>
+                  <l>Your <hi>Governors</hi> can you produce,</l>
+                  <pb n="4" facs="tcp:105091:4"/>
+                  <l>Which you may <hi>bend</hi> to <hi>private</hi> uſe;</l>
+                  <l>And, as you'r wont, by <hi>wreſting</hi> ſenſe</l>
+                  <l>Of <hi>Text,</hi> make plauſible defence?</l>
+                  <l>For here you will your deareſt <hi>Paul</hi>
+                  </l>
+                  <l>In vain to your aſſiſtance call,</l>
+                  <l>And if you would this <hi>cauſe</hi> ſupport,</l>
+                  <l>Muſt find ſome <hi>new Apoſtle</hi> for't.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Trim.</speaker>
+               <lg>
+                  <l>This ſeems the weakeſt <hi>Ob</hi> of all</l>
+                  <l>From <hi>Tory</hi> lips that ere did fall;</l>
+                  <l>For how ſhould <hi>Paul</hi> concerned be</l>
+                  <l>In the <hi>Birthright</hi> of you or me?</l>
+                  <l>In Holy <hi>Writ</hi> what do you find</l>
+                  <l>Of <hi>Copyhold,</hi> or <hi>Gavelkind,</hi>
+                  </l>
+                  <l>
+                     <hi>Tenure in capite, Feefarm;</hi>
+                  </l>
+                  <l>To <hi>Paul</hi> and <hi>Peter Cant</hi> and <hi>Charm;</hi>
+                  </l>
+                  <l>Who never tell how far <hi>extends</hi>
+                  </l>
+                  <l>The pow'r of Kings, and <hi>where</hi> it <hi>ends;</hi>
+                  </l>
+                  <l>If <hi>Commonwealth</hi> and <hi>Anarchy</hi>
+                  </l>
+                  <l>Differ in <hi>kind,</hi> or in <hi>degree;</hi>
+                  </l>
+                  <l>What's <hi>eaſie</hi> Government and <hi>mild,</hi>
+                  </l>
+                  <l>And which 'tis <hi>galls</hi> till men run wild.</l>
+                  <l>Could you from <hi>them</hi> the difference ſhew</l>
+                  <l>'Twixt <hi>Claim</hi> of <hi>Trajan</hi> and <hi>Nero;</hi>
+                  </l>
+                  <l>Or Sequel from ſome <hi>Scripture</hi> draw</l>
+                  <l>'Gainſt that vile pagan <hi>Salique Law;</hi>
+                  </l>
+                  <l>And Argument raiſe from another,</l>
+                  <l>To make <hi>Grandſon</hi> precede the <hi>Brother</hi>
+                  </l>
+                  <l>In <hi>wearing Crown,</hi> you'd do much more</l>
+                  <l>Than ever <hi>Tory</hi> did before.</l>
+                  <l>Since then no <hi>Text</hi> ſhews who has got</l>
+                  <l>A <hi>rightful</hi> Title, and who <hi>not;</hi>
+                  </l>
+                  <l>When Subjects liberty's <hi>betray'd,</hi> or</l>
+                  <l>Who's an <hi>Uſurper</hi> or <hi>Invader,</hi>
+                  </l>
+                  <l>
+                     <hi>Herein</hi> we muſt directed be</l>
+                  <l>By Maxims of <hi>State-polity,</hi>
+                  </l>
+                  <l>And in ſuch <hi>matters</hi> muſt proceed</l>
+                  <l>As <hi>Laws</hi> and <hi>Cuſtom</hi> have decreed;</l>
+                  <l>And if i'th' caſe theſe ſilent be,</l>
+                  <l>Ought to conſult <hi>neceſſity;</hi>
+                  </l>
+                  <pb n="5" facs="tcp:105091:4"/>
+                  <l>Which, (ſince it for <hi>Self-preſervation</hi>
+                  </l>
+                  <l>Of <hi>ſtragling Herds</hi> made <hi>Civil Nation</hi>)</l>
+                  <l>Still <hi>Pow'r</hi> muſt have o're <hi>Government,</hi>
+                  </l>
+                  <l>To make it <hi>anſwer</hi> firſt <hi>Intent.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now as to <hi>Chriſtians</hi> uſing force</l>
+                  <l>'Gainſt <hi>Law-ſubverting Governors;</hi>
+                  </l>
+                  <l>I think the point may thus be clear'd.</l>
+                  <l>When <hi>Chriſt</hi> in human fleſh appear'd,</l>
+                  <l>The <hi>Jewiſh</hi> Hopes were fixt upon</l>
+                  <l>A <hi>Temporal Meſſiah's</hi> Throne.</l>
+                  <l>That <hi>Nation</hi> of a <hi>King</hi> did dream,</l>
+                  <l>VVho ſhould Mankind ſubdue <hi>to them;</hi>
+                  </l>
+                  <l>And was to Rule with <hi>earthly</hi> ſway</l>
+                  <l>As far as e're the <hi>Sun</hi> made day.</l>
+                  <l>From ſuch a <hi>Prince</hi> each <hi>Jew</hi> expected</l>
+                  <l>A <hi>Province</hi> to <hi>himſelf</hi> ſubjected;</l>
+                  <l>O're which he ſhould dominion gain,</l>
+                  <l>And in full <hi>Pow'r</hi> and <hi>Glory</hi> Reign.</l>
+                  <l>Therefore to <hi>humble</hi> and bring down</l>
+                  <l>
+                     <hi>Hearts ſwolne</hi> with ſuch <hi>Ambition,</hi>
+                  </l>
+                  <l>And <hi>frame</hi> them to receive a <hi>King</hi>
+                  </l>
+                  <l>Born to <hi>triumph</hi> in <hi>ſuffering,</hi>
+                  </l>
+                  <l>(And not a <hi>Ruler</hi> long to have</l>
+                  <l>VVho ſhould the <hi>conquer'd</hi> world enſlave,)</l>
+                  <l>The <hi>Paſſive</hi> doctrine of the <hi>Croſs</hi>
+                  </l>
+                  <l>Both <hi>true</hi> and <hi>ſeaſonable</hi> was.</l>
+                  <l>But then the Rule of <hi>Non-reſiſtance</hi>
+                  </l>
+                  <l>Reaches to <hi>all men,</hi> as they'r <hi>Chriſtians,</hi>
+                  </l>
+                  <l>Nor does't exempt the <hi>Magiſtrate,</hi>
+                  </l>
+                  <l>Or him that ſits at Helm of <hi>State;</hi>
+                  </l>
+                  <l>Who by this Doctrine ſeems as far</l>
+                  <l>
+                     <hi>Confin'd</hi> as meaneſt <hi>Subjects</hi> are:</l>
+                  <l>For Goſpel Precepts we well know</l>
+                  <l>Bare <hi>Self-defence</hi> do not allow</l>
+                  <l>To Followers of <hi>Chriſt, as ſuch:</hi>
+                  </l>
+                  <l>(<hi>Turn t'other cheek</hi> imports as much.)</l>
+                  <l>Not that <hi>Chriſts</hi> Laws to be <hi>Slaves</hi> bind us,</l>
+                  <l>But only <hi>leave</hi> us as they <hi>find</hi> us</l>
+                  <l>In <hi>human Station,</hi> neither can</l>
+                  <l>The <hi>Chriſtian</hi> diſpoſſeſs the <hi>Man</hi>
+                  </l>
+                  <pb n="6" facs="tcp:105091:5"/>
+                  <l>Of <hi>Civil</hi> Right or <hi>Natural,</hi>
+                  </l>
+                  <l>Which equally belong to <hi>all,</hi>
+                  </l>
+                  <l>So far as <hi>Nature</hi> and each <hi>State</hi>
+                  </l>
+                  <l>By their <hi>reſpective Laws</hi> create</l>
+                  <l>
+                     <hi>Property,</hi> and give <hi>Title</hi> to,</l>
+                  <l>
+                     <hi>Chriſtian</hi> or <hi>Pagan, Turk</hi> or <hi>Jew.</hi>
+                  </l>
+                  <l>Now you grant <hi>us</hi> this <hi>Property,</hi>
+                  </l>
+                  <l>But to <hi>maintain</hi> it <hi>Pow'r</hi> deny;</l>
+                  <l>And therefore are not half ſo kind</l>
+                  <l>As you would ſeem, for ought I find:</l>
+                  <l>For who allows me <hi>Right</hi> and <hi>Claim,</hi>
+                  </l>
+                  <l>But no <hi>Right</hi> to <hi>defend</hi> the ſame,</l>
+                  <l>
+                     <hi>Incloſure</hi> gives without a <hi>Fence;</hi>
+                  </l>
+                  <l>And this I take to be Nonſenſe.</l>
+               </lg>
+               <lg>
+                  <l>But pray this <hi>paſſive</hi> Doctrine why</l>
+                  <l>Are you not always govern'd by?</l>
+                  <l>When <hi>Maſs</hi> or <hi>Ruine</hi> are your choice,</l>
+                  <l>Your <hi>Non-reſiſtance</hi> makes no noiſe.</l>
+                  <l>With ſworn <hi>Allegiance</hi> you diſpenſe,</l>
+                  <l>When made for <hi>Slavery</hi> a Pretence;</l>
+                  <l>(Had you ith' rigour but ſtuck to it,</l>
+                  <l>
+                     <hi>Peeters</hi> e're this had made you rue it,)</l>
+                  <l>You can <hi>diſtinguiſh</hi> then and <hi>limit;</hi>
+                  </l>
+                  <l>Can <hi>moderate</hi> Notions find, and <hi>trim it.</hi>
+                  </l>
+                  <l>No man, ſay you's ſuppos'd to <hi>ſwear,</hi>
+                  </l>
+                  <l>Himſelf to <hi>hamper</hi> and <hi>enſnare;</hi>
+                  </l>
+                  <l>Nor can men's <hi>Oaths</hi> bear ſuch <hi>conſtruction</hi>
+                  </l>
+                  <l>As plainly <hi>binds</hi> to <hi>ſelf-deſtruction.</hi>
+                  </l>
+                  <l>Had Senate of <hi>Caligula</hi>
+                  </l>
+                  <l>Eſtabliſh'd ſuch an <hi>Oath</hi> by <hi>Law,</hi>
+                  </l>
+                  <l>He'd had his <hi>wiſh,</hi> for thereupon.</l>
+                  <l>
+                     <hi>Millions</hi> of <hi>Necks</hi> had been as <hi>one;</hi>
+                  </l>
+                  <l>And though our <hi>Chriſtian</hi> way more <hi>ſlow</hi>
+                  </l>
+                  <l>Muſt be confeſs'd, yet by <hi>one blow</hi>
+                  </l>
+                  <l>The <hi>twiſted lives</hi> of human kind</l>
+                  <l>More <hi>certain period</hi> could not find.</l>
+               </lg>
+               <lg>
+                  <l>Theſe your <hi>late</hi> Notions were, though now</l>
+                  <l>You'r pleas'd the ſame to diſavow.</l>
+                  <l>For when the dreadful <hi>danger's</hi> o're</l>
+                  <l>
+                     <hi>Treat</hi> ſtraight, cry you, <hi>recall, reſtore;</hi>
+                  </l>
+                  <pb n="7" facs="tcp:105091:5"/>
+                  <l>And now your <hi>Rights</hi> ſeem <hi>ſafe</hi> and <hi>Lives,</hi>
+                  </l>
+                  <l>Your old Allegiance <hi>Oath revives.</hi>
+                  </l>
+                  <l>But were all people of your mind,</l>
+                  <l>Where could you this dear <hi>ſafety</hi> find?</l>
+                  <l>Shall we in earneſt entertain</l>
+                  <l>
+                     <hi>Boundleſs Prerogative</hi> again?</l>
+                  <l>Or ſhall <hi>we</hi> ſtill <hi>reſiſt,</hi> that <hi>you</hi>
+                  </l>
+                  <l>May ſafe <hi>be,</hi> and <hi>ſeem</hi> loyal too?</l>
+                  <l>There 'tis; to <hi>James</hi> for ſhould we fly all,</l>
+                  <l>And of your <hi>Oaths</hi> make <hi>ſecond</hi> tryal,</l>
+                  <l>From <hi>Him</hi> and <hi>Them</hi> again you'd ſcamper,</l>
+                  <l>And gladly with ſome <hi>Orange tamper;</hi>
+                  </l>
+                  <l>Would beg for refuge and defence</l>
+                  <l>From ſome <hi>delivering God-like</hi> Prince,</l>
+                  <l>If <hi>ſuch</hi> a one were to be found</l>
+                  <l>
+                     <hi>Elſewhere,</hi> on <hi>European</hi> Ground.</l>
+               </lg>
+               <lg>
+                  <l>Then let your zeal no more be miſpent</l>
+                  <l>On Notions wholly <hi>inconſiſtent;</hi>
+                  </l>
+                  <l>While Schemes <hi>unpracticable</hi> deceive you,</l>
+                  <l>And the world knows not <hi>where</hi> to <hi>have</hi> you.</l>
+                  <l>But ſince good <hi>Tory</hi> thou do'ſt paſs</l>
+                  <l>For <hi>Poet</hi> of the <hi>higheſt</hi> Claſs,</l>
+                  <l>In <hi>lofty ſtrains</hi> th' Atchievements ſing</l>
+                  <l>Of <hi>reſtor'd England's</hi> glorious King;</l>
+                  <l>Whoſe <hi>conqu'ring</hi> to <hi>oblige</hi> a State</l>
+                  <l>Stands <hi>ſingle</hi> in the Book of Fate,</l>
+                  <l>And <hi>matchleſs Exploit</hi> will appear</l>
+                  <l>Throughout the whole <hi>Platonick</hi> year;</l>
+                  <l>For when before did e're Kingdom</l>
+                  <l>
+                     <hi>Triumph</hi> for being <hi>overcome?</hi>
+                  </l>
+                  <l>Or ſhall hereafter Nation be</l>
+                  <l>
+                     <hi>Sav'd</hi> by ſucceſs of <hi>Enemy?</hi>
+                  </l>
+                  <l>By <hi>forreign,</hi> kind <hi>Hoſtility,</hi>
+                  </l>
+                  <l>Freed from <hi>domeſtick Slavery?</hi>
+                  </l>
+                  <l>From <hi>home-bred</hi> miſery and woe</l>
+                  <l>Deliver'd by <hi>Invading</hi> Foe?</l>
+                  <l>This <hi>Action</hi> ſo amazing great</l>
+                  <l>No <hi>Pen</hi> can duly celebrate,</l>
+                  <l>Nor muſt <hi>thou</hi> venture to rehearſe</l>
+                  <l>What tranſcends all the pow'rs of <hi>Verſe.</hi>
+                  </l>
+                  <pb n="8" facs="tcp:105091:6"/>
+                  <l>Her utmoſt art thy <hi>Muſe</hi> will need</l>
+                  <l>To reach this <hi>Hero</hi>'s meaneſt Deed;</l>
+                  <l>Which would a large Poetick field</l>
+                  <l>T' a <hi>Virgil</hi> or a <hi>Claudian</hi> yield:</l>
+                  <l>While <hi>Trimmer</hi> only dares to chime</l>
+                  <l>
+                     <hi>With one for ſenſe and one for rhime,</hi>
+                  </l>
+                  <l>and humbly crowding in among</l>
+                  <l>The <hi>half-inſpir'd Phebean Throng,</hi>
+                  </l>
+                  <l>With <hi>thoſe</hi> whoſe <hi>Principles ne're vary,</hi>
+                  </l>
+                  <l>Cryes long may <hi>William</hi> Reign and <hi>Mary.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+         <div type="catechism">
+            <head>The HIGH TORY's Catechiſm.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſtion. </seg>
+               </label> WHat is <hi>Paſſive</hi> Obedience?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>Paſſive</hi> Obedience is an abſolute uncondi<g ref="char:EOLhyphen"/>tional refignation of our <hi>Lives, Laws,</hi> and <hi>Liberties</hi> to the <hi>Will</hi> and Pleaſure of the Prince.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Is this <hi>Paſſive</hi> Doctrine always binding?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> No; this <hi>Paſſive</hi> Doctrine obliges in the ri<g ref="char:EOLhyphen"/>gour, only when <hi>Whiggs</hi> and <hi>Trimmers</hi> are like to <hi>ſuffer</hi> by it; but when the malignant <hi>effects</hi> of it turn upon <hi>us,</hi> it loſes its force and obligation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Pray, what may you <hi>then</hi> do?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> We may <hi>then ſuſpend</hi> and withdraw our <hi>obe<g ref="char:EOLhyphen"/>dience,</hi> and not only <hi>invite</hi> a Forreigner to reſcue and deliver us, but <hi>aſſiſt</hi> him with our <hi>prayers, purſes,</hi> and <hi>perſons.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> You ſay, you may <hi>ſuſpend</hi> your Allegiance to your Natural Prince; pray therefore is it not utter<g ref="char:EOLhyphen"/>ly <hi>extinguiſh'd</hi> in ſuch a caſe, or does it ever <hi>revive</hi> and recover its former obligation?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Yes it does; for when the <hi>danger</hi> of ruin from an arbitrary Prince ſeems to be <hi>blown</hi> over, we ought to declare again for <hi>Him,</hi> our oppoſition made againſt him being grounded upon his <hi>Power</hi> no leſs than his
+<pb n="9" facs="tcp:105091:6"/>to deſtroy us; now the <hi>former</hi> of theſe being once re<g ref="char:EOLhyphen"/>mov'd, and the <hi>latter</hi> thereby <hi>diſarm'd,</hi> he again be<g ref="char:EOLhyphen"/>comes our lawful <hi>irreſiſtable</hi> Governour, with exclu<g ref="char:EOLhyphen"/>ſion of <hi>all others, though the obligations they have put upon us be never ſo great.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But if <hi>all men</hi> return'd to their allegiance as well as you, (which I ſuppoſe they are equally oblig'd to do,) he would quickly recover that ſame <hi>power</hi> of deſtroying. Pray in that caſe what methods are you to take?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> You go upon a miſtake; for we very well know that the <hi>Body</hi> of the <hi>people</hi> will never truſt <hi>him</hi> again, but to the uttermoſt of their power oppoſe his <hi>Reſtauration,</hi> which they are well aſſur'd would bring greater <hi>calamities</hi> upon this Nation, than it ever <hi>groan'd</hi> under ſince it was govern'd by a <hi>Crown'd Head:</hi> therefore we hope to enjoy the <hi>benefit</hi> of a Publick Deliverance, without loſing the <hi>honour</hi> of our peculiar unpracticable Obedience.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But (ſince divers of you are perſons in no or<g ref="char:EOLhyphen"/>dinary <hi>ſtation</hi> and <hi>repute,</hi>) what if your <hi>example</hi> ſhould work upon ſome, and the artifices of <hi>Papiſts, Atheiſts,</hi> and wicked <hi>deſigning Proteſtants</hi> prevail with many more? What if our <hi>Proteſtant</hi> Allies, by diſ<g ref="char:EOLhyphen"/>couragement from our <hi>diviſions</hi> and <hi>diſtractions</hi> as well as by other <hi>means,</hi> ſhould be induc'd to <hi>fall off</hi> from us, and the <hi>Popiſh</hi> Princes be brought to a confederacy <hi>againſt</hi> us; and theſe with many other unforeſeen <hi>ac<g ref="char:EOLhyphen"/>cidents</hi> concur in favour of the <hi>late King,</hi> ſo that he ſhould recover his <hi>pernicious power</hi> by Force and Conqueſt: pray, how are your <hi>paſſive</hi> Principles to operate in ſuch circumſtances?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Why truly in ſuch circumſtances both <hi>we</hi> and our dear <hi>principles</hi> would be paſt operating at all to any purpoſe, and we can then only have recourſe to that inſipid ſelf-condemning exclamation, with which in the like <hi>diſtreſs,</hi> occaſion'd by the like <hi>conduct,</hi> we did not ſo really <hi>comfort</hi> as <hi>reproach</hi> our ſelves; that is, <hi>Good Lord, who imagin'd it would ever have come to this!</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
